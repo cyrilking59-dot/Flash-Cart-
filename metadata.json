@@ -1,0 +1,6 @@
+{
+  "name": "Flash Cart",
+  "description": "Hyperlocal Volta Region Market E-Commerce & Rapid Dispatch Platform for Abor, Akatsi, Dabala, Mafi, Denu, Agbozume, and Aflao markets.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
